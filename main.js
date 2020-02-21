@@ -44,7 +44,5 @@ let isChecked = false,
 console.log(isChecked || !isClose);
 
 
-alert("Test git");
-
 
 
